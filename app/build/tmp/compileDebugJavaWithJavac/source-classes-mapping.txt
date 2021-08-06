@@ -1,0 +1,6 @@
+com/example/bluetooth_carranza/MainActivity.java
+ com.example.bluetooth_carranza.MainActivity
+ com.example.bluetooth_carranza.MainActivity$1
+ com.example.bluetooth_carranza.MainActivity$2
+com/example/bluetooth_carranza/BuildConfig.java
+ com.example.bluetooth_carranza.BuildConfig
